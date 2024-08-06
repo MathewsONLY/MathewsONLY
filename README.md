@@ -1,7 +1,7 @@
 ## Welcome to my profile 😏
 
 
-**MathewsONLY** é um ✨ _desenvolvedor em ascenção_ ✨
+**MathewsONLY** ✨ _desenvolvedor em ascenção_ ✨
 
 - 🔭 I’m currently working on alura
 - 🌱 I’m currently learning Java Script
